@@ -73,7 +73,6 @@ footer {
   main {
     width: 100%;
     display: block;
-    margin-left: 20px;
   }
 
   .step-box:last-child {
@@ -83,6 +82,7 @@ footer {
   .step-box {
     width: 90%;
     margin-bottom: 20px;
+    margin: 0 auto 20px auto;
   }
 
   footer {
